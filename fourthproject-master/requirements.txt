@@ -27,7 +27,7 @@ django-filter==2.2.0
 django-imagekit==4.0.2
 django-js-asset==1.2.2
 django-rest-knox==4.0.1
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 docutils==0.14
 future==0.16.0
 gunicorn==19.9.0
