@@ -68,7 +68,7 @@ semantic-version==2.5.0
 service-identity==18.1.0
 six==1.11.0
 termcolor==1.1.0
-Twisted==19.2.0
+Twisted==22.10.0
 txaio==18.8.1
 urllib3==1.24.3
 virtualenv==16.7.2
